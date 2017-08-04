@@ -14,7 +14,7 @@ website.
 3. Edit the `_config.yml` file
 
 {% highlight yaml %}
-title: {{ site.title }}
+title: {{ title }}
 description: >
   {{ site.description | rstrip }}
 baseurl: "{{ site.baseurl }}" # the subpath of your site
