@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Getting Started
-quote: The essential part of creativity is not being afraid to fail.
-cite: Edwin H. Land
+title: AD VICTORIAM
+quote: ....but in the end we will be saving humanity from its worst enemy, itself.
+cite: Elder Maxson
 ---
 
 This example is just meant to get you started and show you a little of what's
