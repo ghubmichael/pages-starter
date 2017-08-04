@@ -22,7 +22,7 @@ url: "{{ site.url }}"
 email: {{ site.email }}
 github_username:  {{ site.github_username }}
 linkedin_username: {{ site.linkedin_username }}
-BrothersSteel: {{ site.twitter_username }}
+twitter_username: {{ site.twitter_username }}
 {% endhighlight %}
 
 That's it! You should now have a website of your own.
