@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AD VICTORIAM
+title: AD VICTORIAM!
 quote: ....but in the end we will be saving humanity from its worst enemy, itself.
 cite: Elder Maxson
 ---
