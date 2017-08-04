@@ -2,7 +2,7 @@
 layout: default
 title: AD VICTORIAM!
 quote: ....but in the end we will be saving humanity from its worst enemy, itself.
-cite: Elder Maxson
+cite: -Elder Maxson
 ---
 
 This example is just meant to get you started and show you a little of what's
